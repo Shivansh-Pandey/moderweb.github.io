@@ -151,6 +151,7 @@ button span {
     height: 4px;
     background-color: #fff;
     margin: 0 20px;
+    margin-top: -150px;
     border-radius: 2px;
 }
 
